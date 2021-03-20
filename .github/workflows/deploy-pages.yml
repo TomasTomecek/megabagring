@@ -1,0 +1,26 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - name: Hugo Deploy GitHub Pages
+        uses: benmatselby/hugo-deploy-gh-pages@master
+        env:
+          CNAME: mazli.ci
+          HUGO_VERSION: 0.80.0
+          HUGO_EXTENDED: true
+          TARGET_REPO: TomasTomecek/megabagring
+          TARGET_BRANCH: kedr
+          TOKEN: ${{ github.token }}

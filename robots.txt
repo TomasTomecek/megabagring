@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://mazli.ci/sitemap.xml

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mazlici in the Kitchen</title>
+    <link>http://mazli.ci/</link>
+    <description>Recent content on Mazlici in the Kitchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://mazli.ci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us</title>
+      <link>http://mazli.ci/about/</link>
+      <pubDate>Fri, 19 Mar 2021 10:27:42 +0100</pubDate>
+      
+      <guid>http://mazli.ci/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our favourite ingredients</title>
+      <link>http://mazli.ci/ingredients/</link>
+      <pubDate>Fri, 19 Mar 2021 10:27:42 +0100</pubDate>
+      
+      <guid>http://mazli.ci/ingredients/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

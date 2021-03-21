@@ -5,6 +5,16 @@
     <link>http://mazli.ci/tags/</link>
     <description>Recent content in Tags on Mazlici in the Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://mazli.ci/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2021 10:27:42 +0100</lastBuildDate><atom:link href="http://mazli.ci/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>breakfast</title>
+      <link>http://mazli.ci/tags/breakfast/</link>
+      <pubDate>Fri, 19 Mar 2021 10:27:42 +0100</pubDate>
+      
+      <guid>http://mazli.ci/tags/breakfast/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
